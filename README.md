@@ -1,4 +1,7 @@
 # STUDENT -Powerbuilder
+
+## 已经通过宋老师的验收了，没发现什么bug
+
 ## 遇到的坑:  
 可以修改学生表和数据表，但是不能修改成绩
 * 修改dw中该列的taborder为非零  
